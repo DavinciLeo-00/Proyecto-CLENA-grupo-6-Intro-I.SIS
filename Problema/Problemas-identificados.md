@@ -1,5 +1,0 @@
-La problemática que trabajamos para resolver la identificamos durante la estancia en 
-el Archivo Historico del C.L.E.N.A en donde uno de los miembros guias de esa sala en 
-especifico menciono la forma en como manejaban la información respecto a las solicitudes 
-realizadas con el propósito de obtener la información o copias de documentos y/o demás
-archivos almacenados en el lugar. 
